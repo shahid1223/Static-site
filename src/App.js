@@ -5,7 +5,6 @@ import ContactForm from './Component/ContactUs/ContactForm';
 import LastFooter from './Component/Footer/LastFooter';
 import Gallery from './Component/Gallery/Gallery';
 import { Header } from "./Component/Header";
-import Services from './Component/Services/Services';
 import Index from './Component/index';
 import DataContext from './Component/Context/DataContext';
 import Login from './Component/Admin/Login';

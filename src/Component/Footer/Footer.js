@@ -4,8 +4,7 @@ import {
     Row,
     Col,
     Button,
-    Modal,
-    Tooltip
+    Modal
 } from 'react-bootstrap';
 
 const Footer = () => {

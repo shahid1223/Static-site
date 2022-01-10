@@ -1,5 +1,4 @@
-import React, { useContext } from 'react'
-import Context from '../Context/Context';
+import React from 'react'
 import {
     Container,
     Row,
@@ -8,8 +7,6 @@ import {
 } from 'react-bootstrap';
 
 const Services = () => {
-    const servicContext = useContext(Context);
-    const { servicesdata } = servicContext
     const ByDefaultCrausal = [
         {
             image: "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
